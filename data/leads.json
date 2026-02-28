@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Aldous",
+        "phone": "9876543210",
+        "email": "aldous@gmail.com",
+        "service": "consultation",
+        "slot": "10AM",
+        "notes": "First visit"
+    }
+]
